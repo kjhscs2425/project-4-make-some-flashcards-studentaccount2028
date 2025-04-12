@@ -1,0 +1,16 @@
+
+15 correct 7 incorrect Winrate: 68.2%
+5 correct 17 incorrect Winrate: 22.7%
+4 correct 13 incorrect Winrate: 23.5%
+6 correct 16 incorrect Winrate: 27.3%
+5 correct 17 incorrect Winrate: 22.7%
+9 correct 13 incorrect Winrate: 40.9%
+12 correct 10 incorrect Winrate: 54.5%
+22 correct 0 incorrect Winrate: 100.0%
+22 correct 0 incorrect Winrate: 100.0%
+22 correct 0 incorrect Winrate: 100.0%
+22 correct 0 incorrect This rounds winrate: 100.0%
+22 correct 0 incorrect This rounds winrate: 100.0%
+22 correct 0 incorrect This rounds winrate: 100.0%
+22 correct 0 incorrect This rounds winrate: 100.0%
+22 correct 0 incorrect This rounds winrate: 100.0%
